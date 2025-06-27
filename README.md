@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealmacopolo&label=Profile%20views&color=0e75b6&style=flat" alt="therealmacopolo" /> </p>
 
-- 🔭 I’m currently working on **GTRADE AI**
+- 🌱 I’m currently on MACHINE LEARNING**
 
-- 🌱 I’m currently learning **C++ & MACHINE LEARNING**
-
-- 👯 I’m looking to collaborate on **DIGISAFE**
+- 👯 I’m looking to collaborate on ML PROJECTS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
